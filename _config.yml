@@ -2,6 +2,7 @@ name: salesjourney
 favicon: null
 layout_spectrum: 0.08382427087053657
 typography_spectrum: 0.2408273934852332
+title: The Sales Journey
 cta:
   domain: null
   bucket: null
