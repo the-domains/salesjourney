@@ -12,13 +12,17 @@ color:
   rhythmicContrast: 0.06482686940580606
 opengraph:
   image: null
-  type: null
+  type: 'https://www.facebook.com/michele.puccio'
   appId: null
 layout_spectrum: 0.08382427087053657
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Michele Puccio
+  email: michele.puccio@me.com
+  url: 'http://michelepuccio.net'
 name: salesjourney
 cta:
   domain: null
