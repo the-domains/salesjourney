@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sales Journey]]></title>
+        <description><![CDATA[Sales Journey]]></description>
+        <link>https://thegrid.ai/salesjourney/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 16:05:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/salesjourney/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Project]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d668276ff1a6acf1d4859778ea62cda0fb835f9.jpg">]]></description>
+            <link>https://thegrid.ai/salesjourney/the-project/index.html</link>
+            <guid isPermaLink="false">148a0227-da0e-4fc3-828e-94ebbcc419ae</guid>
+            <pubDate>Fri, 02 Sep 2016 15:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social selling 101: 3 Resources For Sales Leaders]]></title>
+            <description><![CDATA[<article><h1>Social selling 101: 3 Resources For Sales Leaders</h1><p>Great tool for a Social Seller</p></article>]]></description>
+            <link>http://my.salesforlife.com/kit-3-resources-sales-leaders/?utm_campaign=Social+Selling+101%3A+3+Resources+To+Get+Your+Team+Started&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=33738044&amp;_hsenc=p2ANqtz-9jC_889FfE5IbKrCBmCRdn85bOHzXy4gwvFnj0ITsZuy4RRsfdBBpdZHCWOrsyxo7Gi3o88pjGoxxD6aPrFAHkUV9ufw&amp;_hsmi=33738044</link>
+            <guid isPermaLink="false">159bc6d7-1cc9-4645-b4e4-12b6433a3f0f</guid>
+            <pubDate>Fri, 02 Sep 2016 16:04:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
